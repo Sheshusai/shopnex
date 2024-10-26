@@ -1,8 +1,3 @@
-// username: sheshumadhunala1988
-// password: W6G8c2fzNl0pNVux
-
-// mongodb+srv://sheshumadhunala1988:<db_password>@cluster0.5xxde.mongodb.net/
-
 
  
 const express = require('express')
